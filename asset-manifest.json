@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LyrReact/static/css/main.20c34f78.chunk.css",
+    "main.js": "/LyrReact/static/js/main.18aa8eb9.chunk.js",
+    "main.js.map": "/LyrReact/static/js/main.18aa8eb9.chunk.js.map",
+    "runtime-main.js": "/LyrReact/static/js/runtime-main.d2912059.js",
+    "runtime-main.js.map": "/LyrReact/static/js/runtime-main.d2912059.js.map",
+    "static/js/2.4ab195d5.chunk.js": "/LyrReact/static/js/2.4ab195d5.chunk.js",
+    "static/js/2.4ab195d5.chunk.js.map": "/LyrReact/static/js/2.4ab195d5.chunk.js.map",
+    "index.html": "/LyrReact/index.html",
+    "precache-manifest.dbeffe88706a456e057ccacc0a47efec.js": "/LyrReact/precache-manifest.dbeffe88706a456e057ccacc0a47efec.js",
+    "service-worker.js": "/LyrReact/service-worker.js",
+    "static/css/main.20c34f78.chunk.css.map": "/LyrReact/static/css/main.20c34f78.chunk.css.map",
+    "static/js/2.4ab195d5.chunk.js.LICENSE.txt": "/LyrReact/static/js/2.4ab195d5.chunk.js.LICENSE.txt",
+    "static/media/spinner1.gif": "/LyrReact/static/media/spinner1.3bd3d6a5.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2912059.js",
+    "static/js/2.4ab195d5.chunk.js",
+    "static/css/main.20c34f78.chunk.css",
+    "static/js/main.18aa8eb9.chunk.js"
+  ]
+}
