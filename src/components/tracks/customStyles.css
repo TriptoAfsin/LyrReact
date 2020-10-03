@@ -1,0 +1,4 @@
+.my-primary-btn:hover {
+    background-color: #5cd34e !important;
+    transition: ease-out 0.5s;
+}
