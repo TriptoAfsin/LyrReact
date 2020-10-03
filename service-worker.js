@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/LyrReact/precache-manifest.769640f07c6880f98e39d3007c561f71.js"
+  "/LyrReact/precache-manifest.74d069a450062e374ee45e8c8da908a1.js"
 );
 
 self.addEventListener('message', (event) => {
