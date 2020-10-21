@@ -1,7 +1,7 @@
-#LyrReact
+<h1>LyrReact</h1>
 
 ![Lyr React](https://i.imgur.com/hXzweYW.png)
 
-##Used Technlogy: React
+<h3>Used Technlogy: React>/h3>
 
-##Try it: [Lyr React](https://triptoafsin.github.io/LyrReact/)
+<h3>Try it: [Lyr React](https://triptoafsin.github.io/LyrReact/)</h3>
